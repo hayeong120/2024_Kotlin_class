@@ -1,4 +1,4 @@
-// 부생성자 - 매개변수를 통해 초기화
+// 부생성자 - 매개변수를 통해 초기화 프로퍼트 지정
 class Bird2 {
     var name:String
     var wing:Int
