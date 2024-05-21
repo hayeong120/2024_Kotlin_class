@@ -16,7 +16,7 @@ class Student2 :Person1 {
 
 fun main()
 {
-    val str1 = Student1("kim", "신림동", 18, "오므라이스", "미림마고")
+    val str1 = Student2("kim", "신림동", 18, "오므라이스", "미림마고")
     str1.name
     str1.address
     str1.eat()
